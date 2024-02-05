@@ -1,0 +1,10 @@
+^C:\USERS\MIROTHEMIGHTY\DESKTOP\GOOGLETESTSANDCMAKE\OUT\CMAKEFILES\28C6BE9269FA4E8D21D143EC754FBCF8\GENERATE.STAMP.RULE
+setlocal
+"F:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake -BC:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/out --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/out/GoogleTestsAndCMake.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

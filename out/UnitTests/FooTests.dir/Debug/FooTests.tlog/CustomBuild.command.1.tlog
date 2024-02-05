@@ -1,0 +1,10 @@
+^C:\USERS\MIROTHEMIGHTY\DESKTOP\GOOGLETESTSANDCMAKE\UNITTESTS\CMAKELISTS.TXT
+setlocal
+"F:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake -BC:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/out --check-stamp-file C:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/out/UnitTests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

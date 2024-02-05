@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MiroTheMighty\Desktop\GoogleTestsAndCMake\out\CMakeFiles\28c6be9269fa4e8d21d143ec754fbcf8\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\MiroTheMighty\Desktop\GoogleTestsAndCMake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\MiroTheMighty\Desktop\GoogleTestsAndCMake\out\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{81910917-ABA4-3697-97FE-F41D13066346}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

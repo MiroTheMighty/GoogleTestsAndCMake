@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/GoogleTests/CMakeLists.txt
+C:/Users/MiroTheMighty/Desktop/GoogleTestsAndCMake/out/CMakeFiles/3.28.2/CMakeCCompiler.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+F:/Program Files/CMake/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
